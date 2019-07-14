@@ -17,5 +17,12 @@ ROS学习进阶
 ROS文件系统的命令规范：
 1. [Naming Conventions for Catkin Based Workspaces](http://www.ros.org/reps/rep-0128.html)
 
+## 其他资料
+1. Probabilistic Robotics(概率机器人)
+2. Springer.Springer.Handbook.of.Robotics.2nd.Edition
+3. 机器人学 建模、规划与控制
+4. 机器人学 机器视觉与控制 MATLAB算法基础
+5. 机器人学导论原书第3版
+
 ## 项目实战
 
