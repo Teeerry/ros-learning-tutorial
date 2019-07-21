@@ -1,7 +1,9 @@
 # wanderbot
 ## enviroment
-Ubuntu 18.04 + ROS melodic
-
+Ubuntu 18.04 + ROS melodic and **set the enviroment variable**
+```
+export TURTLEBOT3_MODEL=burger
+```
 ## simulation
 Terminal 1:
 ```
