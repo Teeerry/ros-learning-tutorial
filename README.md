@@ -26,3 +26,6 @@ ROS文件系统的命令规范：
 
 ## 项目实战
 1. [wonderbot](https://github.com/Teeerry/ros-learning-tutorial/tree/master/wanderbot)
+
+## 知识总结
+1. [定位与导航](https://github.com/Teeerry/ros-learning-tutorial/blob/master/building_map_and_navigation.md)
